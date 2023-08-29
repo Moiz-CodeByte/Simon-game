@@ -7,7 +7,7 @@ Welcome to the Simon Game! Test your memory and concentration skills with this c
 ## Table of Contents
 
 - [Description](#description)
-- [Screenshots](#screenshots)
+- [Screenshot](#screenshot)
 - [How to Play](#how-to-play)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
@@ -20,14 +20,14 @@ The Simon Game is a memory-based game where players must remember a sequence of 
 
 ## Screenshots
 
-![Gameplay Screenshot](/screenshots/gameplay.png)
+![Gameplay Screenshot](/screenshot.png)
 
 ## How to Play
 
 1. Press any key to start the game.
 2. Pay attention to the sequence of colors and sounds played by the game.
 3. Click on the buttons in the same order as the sequence.
-4. the game will advance to the next level if you complete the sequence correctly.
+4. The game will advance to the next level if you complete the sequence correctly.
 5. The game gets progressively more complex with longer sequences.
 6. If you make a mistake, the game will end. You can restart by pressing any key again.
 
@@ -58,3 +58,4 @@ The Simon Game is a memory-based game where players must remember a sequence of 
 
 For inquiries, don't hesitate to get in touch with me at [hello@abdulmoiz.net](mailto:hello@abdulmoiz.net).
 ```
+Visit the live project at [Simon game](https://moiz-codebyte.github.io/Simon-game/).

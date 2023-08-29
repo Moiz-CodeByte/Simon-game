@@ -58,5 +58,3 @@ The Simon Game is a memory-based game where players must remember a sequence of 
 
 For inquiries, don't hesitate to get in touch with me at [hello@abdulmoiz.net](mailto:hello@abdulmoiz.net).
 ```
-
-Replace `/screenshots/gameplay.png` with the actual path to your gameplay screenshot. Also, remember to customize the contact details, technologies used, and other information according to your project.
